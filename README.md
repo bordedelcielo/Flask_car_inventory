@@ -1,4 +1,8 @@
 # Flask_car_inventory
 Christopher's Flask car inventory for week 5.
 
-Hi Ryan -- does it look like my .gitignore worked?
+My env file contains the below.
+
+FLASK_APP = car_app
+FLASK_ENV = development
+DEPLOY_DATABASE_URL = postgresql+psycopg2://postgres:MYPASSWORD@MYHOSTINFO/cars
