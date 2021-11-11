@@ -3,3 +3,4 @@ car_env
 __pycache__
 .env
 env
+car_info.txt
